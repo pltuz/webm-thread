@@ -4,9 +4,9 @@
 
 **О кодировании WebM**
 Доступные кодеки — VP8 и VP9 для видео, Vorbis и Opus для звука, **максимальный размер файла — 10240КБ**.
-**Делать WebM** можно научиться здесь: https://2ch.hk/s/res/1765678.html
 
-**Программы и их документация**
-http://webmproject.org http://ffmpeg.org http://mpv.io http://www.bunkus.org/videotools/mkvtoolnix/
+**FAQ**
+https://hive.blasux.ru/webm/s
 
-**Оп-паста**: https://github.com/pltuz/webm-thread/blob/master/op-paste
+**Оп-паста**
+https://github.com/pltuz/webm-thread/blob/master/op-paste
